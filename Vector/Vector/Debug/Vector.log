@@ -1,0 +1,22 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Vector.cpp
+D:\oS\Vector\Vector\Vector.h(11,10): warning C4251: 'Vector::X': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
+D:\oS\StaticMath\MathLibrary\Number.h(5): message : see declaration of 'Number'
+D:\oS\Vector\Vector\Vector.h(12,10): warning C4251: 'Vector::Y': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
+D:\oS\StaticMath\MathLibrary\Number.h(5): message : see declaration of 'Number'
+D:\oS\Vector\Vector\Vector.cpp(6,36): warning C4273: 'Vector::Vector': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(13,2): message : see previous definition of '{ctor}'
+D:\oS\Vector\Vector\Vector.cpp(9,1): warning C4273: 'Vector::sum': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(14,9): message : see previous definition of 'sum'
+D:\oS\Vector\Vector\Vector.cpp(14,1): warning C4273: 'Vector::operator +': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(15,15): message : see previous definition of '+'
+D:\oS\Vector\Vector\Vector.cpp(19,1): warning C4273: 'Vector::r': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(16,9): message : see previous definition of 'r'
+D:\oS\Vector\Vector\Vector.cpp(27,1): warning C4273: 'Vector::angle': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(17,9): message : see previous definition of 'angle'
+D:\oS\Vector\Vector\Vector.cpp(35,1): warning C4273: 'Vector::print_vector': inconsistent dll linkage
+D:\oS\Vector\Vector\Vector.h(18,7): message : see previous definition of 'print_vector'
+  Generating Code...
+     Creating library D:\oS\Vector\Debug\Vector.lib and object D:\oS\Vector\Debug\Vector.exp
+  Vector.vcxproj -> D:\oS\Vector\Debug\Vector.dll

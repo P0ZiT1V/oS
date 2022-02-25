@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+D:\oS\Vector\Vector\Vector.h(11,10): warning C4251: 'Vector::X': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
+D:\oS\StaticMath\MathLibrary\Number.h(5): message : see declaration of 'Number'
+D:\oS\Vector\Vector\Vector.h(12,10): warning C4251: 'Vector::Y': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
+D:\oS\StaticMath\MathLibrary\Number.h(5): message : see declaration of 'Number'
+  ConsoleApplication1.vcxproj -> D:\oS\ConsoleApplication1\Debug\ConsoleApplication1.exe
